@@ -1,0 +1,11 @@
+Model Information:
+* title:	1968 Pontiac Bonneville Custom
+* source:	https://sketchfab.com/3d-models/1968-pontiac-bonneville-custom-152f2ab0b82c4d02ab59e2307cff29df
+* author:	everhard (https://sketchfab.com/everhard)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "1968 Pontiac Bonneville Custom" (https://sketchfab.com/3d-models/1968-pontiac-bonneville-custom-152f2ab0b82c4d02ab59e2307cff29df) by everhard (https://sketchfab.com/everhard) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
